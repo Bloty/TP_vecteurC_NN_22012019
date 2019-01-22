@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1548149848 source:d:\cours_ludus\anne_2\cours_c\code_blocks\vecteur2\vecteur2.c
+	"vecteur2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1548149338 source:d:\cours_ludus\anne_2\cours_c\code_blocks\vecteur2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vecteur2.h"
+
+1548149048 d:\cours_ludus\anne_2\cours_c\code_blocks\vecteur2\vecteur2.h
+
+1548149988 source:d:\cours_ludus\anne_2\cours_c\code_blocks\vecteur2\calculevec.c
+	"vecteur2.h"
+	"calculeVec.h"
+	<stdio.h>
+	<stdlib.h>
+
+1548150031 d:\cours_ludus\anne_2\cours_c\code_blocks\vecteur2\calculevec.h
+
